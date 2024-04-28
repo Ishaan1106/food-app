@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Ishaan1106/food-app/static/css/main.020a6664.css",
+    "main.js": "/Ishaan1106/food-app/static/js/main.be4c2672.js",
+    "static/media/recipes-book.jpg": "/Ishaan1106/food-app/static/media/recipes-book.e76482ff1ce145cf029d.jpg",
+    "static/media/pastas.jpg": "/Ishaan1106/food-app/static/media/pastas.bc5697306239d9f7827b.jpg",
+    "static/media/snack3.jpg": "/Ishaan1106/food-app/static/media/snack3.639e4d9d9d275c5a088b.jpg",
+    "static/media/loginimg.jpg": "/Ishaan1106/food-app/static/media/loginimg.c286acdf7a31839f7e2a.jpg",
+    "static/media/picpicpic.jpg": "/Ishaan1106/food-app/static/media/picpicpic.041a2fa82e0a3e2d9b8e.jpg",
+    "static/media/dish2.jpg": "/Ishaan1106/food-app/static/media/dish2.967b334594319abebfc2.jpg",
+    "static/media/pancakes11.jpg": "/Ishaan1106/food-app/static/media/pancakes11.baf105bc501ba1d77c2f.jpg",
+    "static/media/ingredients.jpg": "/Ishaan1106/food-app/static/media/ingredients.86ab1d79b6c8e6e7826d.jpg",
+    "static/media/snack2.jpg": "/Ishaan1106/food-app/static/media/snack2.9860a3e779d5cb4c9ea1.jpg",
+    "static/media/snack4.jpg": "/Ishaan1106/food-app/static/media/snack4.27bea45e47dc716294a2.jpg",
+    "static/media/vegetarian.jpg": "/Ishaan1106/food-app/static/media/vegetarian.7040f52f617cb31cbc3d.jpg",
+    "static/media/mainmain.jpg": "/Ishaan1106/food-app/static/media/mainmain.43cac33b45a4ca1e7459.jpg",
+    "static/media/soups.jpg": "/Ishaan1106/food-app/static/media/soups.a08487bfda408949372d.jpg",
+    "static/media/signupimage.jpg": "/Ishaan1106/food-app/static/media/signupimage.4a0df2e4637b393a12ec.jpg",
+    "static/media/desserts.jpg": "/Ishaan1106/food-app/static/media/desserts.c9cf109557a945ffb374.jpg",
+    "static/media/snack1.jpg": "/Ishaan1106/food-app/static/media/snack1.f110ef330e778f0c5c54.jpg",
+    "static/media/quick and easy.jpg": "/Ishaan1106/food-app/static/media/quick and easy.d60d64674a4d222631f1.jpg",
+    "static/media/snack5.jpg": "/Ishaan1106/food-app/static/media/snack5.282885a8752e7e5fb9c1.jpg",
+    "static/media/salads.jpg": "/Ishaan1106/food-app/static/media/salads.1e3c185796c5fc80ddb2.jpg",
+    "static/media/pfp4.png": "/Ishaan1106/food-app/static/media/pfp4.6d228c03de8402e62f06.png",
+    "static/media/pfp3.png": "/Ishaan1106/food-app/static/media/pfp3.5d83a37f2472d5f61bec.png",
+    "static/media/dish1.jpg": "/Ishaan1106/food-app/static/media/dish1.962c1a6888bcfba2567d.jpg",
+    "static/media/chef1.png": "/Ishaan1106/food-app/static/media/chef1.20f86cf57e9443a2739c.png",
+    "static/media/background.jpg": "/Ishaan1106/food-app/static/media/background.5304722511284fd2a4dc.jpg",
+    "static/media/food2.jpg": "/Ishaan1106/food-app/static/media/food2.9d5ea9cd9aed0be0e60b.jpg",
+    "static/media/pfp2.jpg": "/Ishaan1106/food-app/static/media/pfp2.9a8e0bc80ceb919dae87.jpg",
+    "static/media/pfp1.jpg": "/Ishaan1106/food-app/static/media/pfp1.b1a7eb7a287d9d5e4f05.jpg",
+    "static/media/food1.jpg": "/Ishaan1106/food-app/static/media/food1.d61e5763f27ba4c0cc8d.jpg",
+    "static/media/pfp6.jpg": "/Ishaan1106/food-app/static/media/pfp6.007c42610819be7fbc8b.jpg",
+    "index.html": "/Ishaan1106/food-app/index.html",
+    "main.020a6664.css.map": "/Ishaan1106/food-app/static/css/main.020a6664.css.map",
+    "main.be4c2672.js.map": "/Ishaan1106/food-app/static/js/main.be4c2672.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.020a6664.css",
+    "static/js/main.be4c2672.js"
+  ]
+}
